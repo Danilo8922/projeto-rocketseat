@@ -215,7 +215,7 @@ const person = {
 usando o objeto
 person.drive()
 
-## git-Hub
+## git
 
 o que é git: git é um controle de versão, um historico do seu projeto, uma linha do tempo, onde vc salva as suas alterações e pode voltar nelas depois se algo der errado no projeto.
 
@@ -235,5 +235,14 @@ adiciona todos os arquivos modificados, ao stage: git add .
 cria e descreve um ponto na historia git commit -m "message here"
 
 envia as alterações para o repositorio: git push
+
+## git-hub
+
+plataforma online para colocar seus codigos atraves do git
+
+trabalhar com diversos projetos profissional para colaborar em projetos ou tabalhar com times
+
+perfil para mostrar seu trabalho portifolio
+
 
 
