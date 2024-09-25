@@ -34,6 +34,7 @@ body {
     background-size: cover;*/
 
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 
 }
 
@@ -172,3 +173,13 @@ footer{
 
 }
 
+@media (min-width: 700px){
+    :root{
+        --bg-url: url(../projeto/img/bg-desktop.jpg);
+    }
+
+    .ligth{
+        --bg-url: url(../projeto/img/bg-desktop-light.jpg);
+    }
+
+} 
