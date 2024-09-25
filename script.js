@@ -15,12 +15,12 @@ function toggleMode() {
     if(html.classList.contains("ligth")){
         // se tiver light mode, adicionar a imagem.light
 
-        img.setAttribute("src", "../projeto/img/Avatar-light.png" )
+        img.setAttribute("src", "img/Avatar-light.png" )
 
     } else{
         // se tiver sem ligth mode, manter a imagem normal
 
-        img.setAttribute("src", "../projeto/img/avatar-darck.png" )
+        img.setAttribute("src", "img/avatar-darck.png" )
     }
 
     // criando um novo alt
